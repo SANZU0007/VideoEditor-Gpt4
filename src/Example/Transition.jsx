@@ -1,4 +1,4 @@
-import { useCurrentFrame, useVideoConfig , interpolate} from "remotion"
+import { useCurrentFrame } from "remotion"
 import { makeTransform,
          interpolateStyles,
          translateY,
