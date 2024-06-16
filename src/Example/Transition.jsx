@@ -1,7 +1,6 @@
 import { useCurrentFrame } from "remotion"
 import { makeTransform,
          interpolateStyles,
-         translateY,
          translateX,
         } from "@remotion/animation-utils";
 
