@@ -13,8 +13,8 @@ export const RemotionRoot = () => {
             compositionHeight={1080}
 			fps={30}
 			style={{
-			width: 600,
-			height: 480,
+			width: 300,
+			height: 180,
 			}}
 			autoPlay= {true}
 			loop
