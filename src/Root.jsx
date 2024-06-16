@@ -18,6 +18,7 @@ export const RemotionRoot = () => {
 			}}
 			autoPlay= {true}
 			loop
+			controls
          />
 		</>
 	);

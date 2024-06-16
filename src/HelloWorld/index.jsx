@@ -50,7 +50,7 @@ export const HelloWorld = () => {
 				</AbsoluteFill>
 				{/* Sequences can shift the time for its children! */}
 				<Sequence from={35}>
-					<Title titleText='Welcome to Remotion' titleColor='black' />
+					<Title titleText='This is Jeevas app ' titleColor='black' />
 				</Sequence>
 				{/* The subtitle will only enter on the 75th frame. */}
 				<Sequence from={75}>
