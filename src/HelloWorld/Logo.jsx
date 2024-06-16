@@ -33,7 +33,7 @@ export const Logo = () => {
 	const scale = spring({
 		frame,
 		config: {
-			mass: 0.2,
+			mass: 0.5,
 		},
 		fps: videoConfig.fps,
 	});
