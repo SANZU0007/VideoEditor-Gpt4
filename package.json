@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@remotion/animation-utils": "^4.0.174",
     "@remotion/cli": "^4.0.174",
     "@remotion/player": "4.0.174",
     "@testing-library/jest-dom": "^5.17.0",
