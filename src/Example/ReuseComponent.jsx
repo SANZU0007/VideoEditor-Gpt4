@@ -7,7 +7,7 @@ const Title = ({ title }) => {
   });
  
   return (
-    <div style={{ opacity, textAlign: "center", fontSize: "7em" }}>{title}</div>
+    <div className="fr" style={{ opacity, textAlign: "center", fontSize: "7em" }}>{title}</div>
   );
 };
  
